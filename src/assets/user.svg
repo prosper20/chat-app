@@ -1,0 +1,37 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#AAAAAA"/>
+<g id="Home  default  &#62; Japa journal  + overflow " clip-path="url(#clip0_26_11553)">
+<rect width="1512" height="1804" transform="translate(-727 -186)" fill="white"/>
+<g id="Frame 1605">
+<g id="post type">
+<rect x="-357" y="-76" width="540" height="584" rx="10" fill="#F5F5F5"/>
+</g>
+<g id="Overflow modal " filter="url(#filter0_d_26_11553)">
+<rect x="-20" y="-61" width="183" height="190" rx="10" fill="#F5F5F5"/>
+<g id="Frame 1601">
+<g id="vuesax/twotone/user">
+<g id="user">
+<path id="Vector" d="M9 9C11.0711 9 12.75 7.32107 12.75 5.25C12.75 3.17893 11.0711 1.5 9 1.5C6.92893 1.5 5.25 3.17893 5.25 5.25C5.25 7.32107 6.92893 9 9 9Z" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" opacity="0.4" d="M15.4426 16.5C15.4426 13.5975 12.5551 11.25 9.00011 11.25C5.44511 11.25 2.55762 13.5975 2.55762 16.5" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_26_11553" x="-30" y="-66" width="203" height="210" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_26_11553"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_26_11553" result="shape"/>
+</filter>
+<clipPath id="clip0_26_11553">
+<rect width="1512" height="1804" fill="white" transform="translate(-727 -186)"/>
+</clipPath>
+</defs>
+</svg>
